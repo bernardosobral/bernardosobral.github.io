@@ -1,11 +1,10 @@
 title: Bernardo Sobral # your name (or website title) here
 logo: "/images/eu.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Desenvolvedor.<br>
+  Data Scientist, Desenvolvedor.
+  <br> <br>
   Interesses: Data Science, Machine Learning, AI, Python, Análise Preditiva, Mercado Financeiro.
-  <br>
-  Second description 
-  <br><br>
+  <br> <br>
   <a href="https://www.linkedin.com/in/bernardo-sobral-56399b66/">Ver perfil LinkedIn</a> 
   
 theme: jekyll-theme-minimal
