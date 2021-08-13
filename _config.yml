@@ -1,25 +1,22 @@
-title: Bernardo Sobral # your name (or website title) here
-logo: "/images/eu.png?raw=true" # your photo (or logo) here
+title: Bernardo Sobral
+logo: "/images/eu.png?raw=true"
+
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
   <a href="https://bernardosobral.github.io/pdf/bernardo_sobral.pdf" style="color:green">Currículo</a> |
   <a href="https://www.linkedin.com/in/bernardo-sobral-56399b66/">LinkedIn</a> |
   <a href="https://github.com/bernardosobral">Github</a>
-
-
-
-description: > # your text below (remove <br> elements if you don't need line breaks)
-
-
-
+  </p>
 
 
 <br> <br>
   
-  
+  <p align="justify">
   Estou cursando graduação em Data Science; extensão em Data Science & Machine Learning e sou bacharel em Desenho Industrial.
   <br> <br>
-  
   Atualmente sou autônomo / consultor em Ciência de Dados na criação de portfólio de robôs investidores do Mercado Financeiro.
   <br> <br>
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: G-0T0S0F0DJK # your Google Analytics tracking ID here
