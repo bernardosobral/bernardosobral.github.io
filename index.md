@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">
 
-<br> Ao investir com uma sugestão de portfólio de robôs investidores (Agorithmic trading) existente no mercado, verifiquei um alto rebaixamento e capital necessário recomendado maior do que possuía. <br>
+<br> Ao investir com uma sugestão de portfólio de robôs investidores (Agorithmic trading) existente no mercado, verifiquei um alto rebaixamento e capital inicial sugerido maior do que possuía. <br>
 
 <br> Analisei cada robô (set) de forma individual através de relatórios de backtest (recurso do software Metatrader), para verificar o rendimento passado de cada estratégia. Acrescentei outros indicadores financeiros, ativos e diversifiquei os tempos gráficos de operação. Eliminei os sets menos lucrativos e/ou com os maiores rebaixamentos. Verifiquei quais apresentaram uma acurácia razoável (operações reais vs. backtest). <br>
 
