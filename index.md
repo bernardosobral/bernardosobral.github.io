@@ -14,7 +14,7 @@ Com as adequações citadas foi possível diminuir o rebaixamento financeiro e g
 
 Apesar da melhora dos resultados, podemos observar uma queda dos resultados financeiros (topos e fundos descendentes). Com isso faz-se necessário desenvolvimento contínuo para idenfiticar melhorias/correções frente às mudanças do mercado financeiro.
   
-  <center><img src="images/fig_networth.png"/></center> <br>
+  <center><img src="images/fig_networth.png"></center> <br>
   <center><img src="images/fig_indicators.png"/></center> <br>
   <center><img src="images/fig_histogram.png"/></center> <br>
   <center><img src="images/fig_profits.png"/></center>
