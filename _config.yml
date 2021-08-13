@@ -1,20 +1,20 @@
-title: <p align="center"> Chris Tran </p>
+title: <p align="center"> Bernardo Sobral </p>
 
 logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://bernardosobral.github.io/pdf/bernardo_sobral.pdf">Currículo</a> |
+  <a href="https://www.linkedin.com/in/bernardo-sobral-56399b66/">LinkedIn</a> |
+  <a href="https://github.com/bernardosobral">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  Estou cursando graduação em Data Science; extensão em Data Science & Machine Learning e sou bacharel em Desenho Industrial.
   <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  Atualmente sou autônomo / consultor em Ciência de Dados na criação de portfólio de robôs investidores do Mercado Financeiro.
   <br><br>
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+google_analytics: G-0T0S0F0DJK # your Google Analytics tracking ID here
