@@ -12,7 +12,7 @@
 
 <br><br> <center><img src="images/fig_indicators.png"/></center> <br><br>
 
-<br> Com as adequações citadas, o rebaixamento financeiro dimimuiu em 78%, exigindo menor garantia inicial. Foi observado também aumento do fator de lucro: de 2,09 para 7,98. <br>
+<br> Com as adequações citadas, o rebaixamento financeiro dimimuiu em 58%, exigindo menor garantia inicial. Foi observado também aumento do fator de lucro: de 2,09 para 6,49. <br>
   
 <br><br> <center><img src="images/fig_networth.png"></center> <br><br>
 <br><br> <center><img src="images/fig_histogram.png"/></center> <br><br>
